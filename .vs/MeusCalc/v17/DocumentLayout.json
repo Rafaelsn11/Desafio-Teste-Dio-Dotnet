@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CalculadoraTestes\\MeusCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C394B763-C11C-4ED3-8A0A-9CDFB68AB3B6}|MeusCalc\\MeusCalc.csproj|c:\\projetos\\calculadoratestes\\meuscalc\\meuscalc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C394B763-C11C-4ED3-8A0A-9CDFB68AB3B6}|MeusCalc\\MeusCalc.csproj|solutionrelative:meuscalc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C459AD-70F7-42E2-A036-B55A80C1A038}|MeusCalcTeste\\MeusCalcTeste.csproj|c:\\projetos\\calculadoratestes\\meuscalc\\meuscalcteste\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C459AD-70F7-42E2-A036-B55A80C1A038}|MeusCalcTeste\\MeusCalcTeste.csproj|solutionrelative:meuscalcteste\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Projetos\\CalculadoraTestes\\MeusCalc\\MeusCalc\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MeusCalc\\Calculadora.cs",
+              "ToolTip": "C:\\Projetos\\CalculadoraTestes\\MeusCalc\\MeusCalc\\Calculadora.cs",
+              "RelativeToolTip": "MeusCalc\\Calculadora.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:15:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projetos\\CalculadoraTestes\\MeusCalc\\MeusCalcTeste\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MeusCalcTeste\\UnitTest1.cs",
+              "ToolTip": "C:\\Projetos\\CalculadoraTestes\\MeusCalc\\MeusCalcTeste\\UnitTest1.cs",
+              "RelativeToolTip": "MeusCalcTeste\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:12:04.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

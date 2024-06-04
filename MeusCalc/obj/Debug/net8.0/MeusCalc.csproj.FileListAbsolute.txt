@@ -1,0 +1,14 @@
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\bin\Debug\net8.0\MeusCalc.exe
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\bin\Debug\net8.0\MeusCalc.deps.json
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\bin\Debug\net8.0\MeusCalc.runtimeconfig.json
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\bin\Debug\net8.0\MeusCalc.dll
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\bin\Debug\net8.0\MeusCalc.pdb
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.AssemblyInfoInputs.cache
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.AssemblyInfo.cs
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.csproj.CoreCompileInputs.cache
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.dll
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\refint\MeusCalc.dll
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.pdb
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\MeusCalc.genruntimeconfig.cache
+C:\Projetos\CalculadoraTestes\MeusCalc\MeusCalc\obj\Debug\net8.0\ref\MeusCalc.dll
